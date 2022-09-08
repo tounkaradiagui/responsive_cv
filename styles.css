@@ -1,0 +1,59 @@
+.maphoto{
+    position: relative;
+    top: 10px;
+    left: 90px;
+    border-radius: 70%;
+}
+
+.second{
+    color: #fff;
+    /* border-bottom-right-radius: 10px; 
+    border-top-right-radius: 10px; */
+}
+
+/* .first{
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+} */
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+p a{
+    text-decoration: none;
+    color: #000;
+}
+
+.progress-title{
+    width: 50%;
+    height: auto;
+}
+
+.progress-title h6{
+    font-size: 18px;
+    font-weight: 700;
+    color: #000;
+}
+
+.progress{
+    height: 20px;
+    box-shadow: 0 2px 2px #706f6f;
+    margin-bottom: 20px;
+}
+
+
+.progress .progress-value{  
+    font-size: 15px;
+    color: #fff;
+    font-weight: 500;
+    position: relative;
+    left: 100px;
+}
+
+hr{
+    
+    border: 2px solid black;
+    background-color: black;
+}
